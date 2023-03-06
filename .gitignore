@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# box and deb file
+*.box
+
 # Distribution / packaging
 .Python
 build/
